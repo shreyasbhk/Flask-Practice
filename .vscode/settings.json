@@ -1,6 +1,0 @@
-{
-    "python.linting.pylintEnabled": false,
-    "python.linting.enabled": true,
-    "python.pythonPath": "/home/shreyas/miniconda3/envs/flask-trial/bin/python",
-    "python.linting.banditEnabled": true
-}
